@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600&family=Inter:wght@300;400;500&display=swap');
+
+/* ── Global ── */
+html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
+.block-container { padding-top: 2rem; max-width: 740px; }
+
+/* ── Title ── */
+h1 {
+    font-family: 'Lora', serif !important;
+    font-size: 1.8rem !important;
+    font-weight: 400 !important;
+    letter-spacing: -0.3px;
+    color: #7c3d12 !important;
+}
+
+/* ── Chat messages ── */
+.stChatMessage {
+    font-size: 0.95rem;
+    line-height: 1.75;
+    border-radius: 12px !important;
+    padding: 0.75rem 1rem !important;
+    margin-bottom: 0.5rem;
+    border: 0.5px solid #e8d5b7 !important;
+    background: #ffffff !important;
+}
+.stChatMessage p, .stChatMessage div, .stChatMessage span {
+    color: #44271a !important;
+}
+/* User messages — amber, indented */
+[data-testid="stChatMessage-user"] {
+    background: #92400e !important;
+    border-color: #92400e !important;
+    margin-left: 2rem;
+}
+[data-testid="stChatMessage-user"] p,
+[data-testid="stChatMessage-user"] div,
+[data-testid="stChatMessage-user"] span {
+    color: #fff5eb !important;
+}
+
+/* ── Suggestion chips ── */
+div.stButton > button {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.82rem;
+    font-weight: 400;
+    border-radius: 20px;
+    padding: 0.4rem 0.9rem;
+    width: auto !important;
+    max-width: fit-content;
+    border: 0.5px solid #fed7aa;
+    background: #fff7ed;
+    color: #c2410c !important;
+    transition: all 0.15s ease;
+    margin: 0.2rem 0.3rem 0.2rem 0;
+    display: inline-flex !important;
+    box-shadow: none !important;
+}
+div.stButton > button:hover {
+    border-color: #c2410c !important;
+    background: #ffedd5 !important;
+    color: #9a3412 !important;
+    transform: translateY(-1px);
+}
+
+/* ── Chat input ── */
+[data-testid="stChatInput"] {
+    border-radius: 24px !important;
+    border: 1px solid #e8d5b7 !important;
+    font-family: 'Inter', sans-serif !important;
+    transition: border 0.2s ease;
+}
+[data-testid="stChatInput"]:focus-within {
+    border-color: #d97706 !important;
+    box-shadow: 0 0 0 3px rgba(217,119,6,0.12) !important;
+}
+
+/* ── Sidebar ── */
+[data-testid="stSidebar"] {
+    background: #f5f0e8 !important;
+    border-right: 0.5px solid #e8d5b7 !important;
+    max-width: 400px !important;
+    min-width: 180px !important;
+}
+[data-testid="stSidebar"] h3 {
+    font-family: 'Lora', serif !important;
+    font-weight: 400 !important;
+    color: #3d2b1f !important;
+    font-size: 1rem !important;
+}
+[data-testid="stSidebar"] div.stButton > button {
+    background: #ffffff !important;
+    border: 0.5px solid #e8d5b7 !important;
+    color: #92400e !important;
+    border-radius: 8px !important;
+    font-size: 0.88rem !important;
+    text-align: center !important;
+    justify-content: center !important;
+    display: flex !important;
+    width: 100% !important;
+    margin: 0 0 0.5rem 0 !important;
+    box-shadow: none !important;
+    transform: none !important;
+    padding: 0.55rem !important;
+    max-width: 100% !important;
+}
+[data-testid="stSidebar"] div.stButton > button:hover {
+    background: #fff7ed !important;
+    border-color: #d97706 !important;
+    color: #9a3412 !important;
+}
+
+/* ── Sidebar form text ── */
+[data-testid="stSidebar"] input,
+[data-testid="stSidebar"] textarea {
+    color: #44271a !important;
+    border: 0.5px solid #e8d5b7 !important;
+    border-radius: 8px !important;
+    background: #ffffff !important;
+}
+[data-testid="stSidebar"] input::placeholder,
+[data-testid="stSidebar"] textarea::placeholder {
+    color: #a07850 !important;
+}
+[data-testid="stSidebar"] [data-testid="InputInstructions"] {
+    color: #c9a87c !important;
+}
+
+/* ── Disclaimer ── */
+/* ── Disclaimer ── */
+.disclaimer-fixed {
+    position: fixed;
+    bottom: 4px;
+    left: 250px;
+    right: 0;
+    text-align: center;
+    color: #c9a87c;
+    font-size: 0.74rem;
+    font-family: 'Inter', sans-serif;
+    pointer-events: none;
+    z-index: 999;
+}
+
+/* ── Hide "Press Enter to submit form" hint ── */
+[data-testid="InputInstructions"],
+div[data-testid="InputInstructions"],
+small[data-testid="InputInstructions"],
+[class*="InputInstructions"],
+.stTextInput ~ small,
+.stTextArea ~ small,
+form small {
+    display: none !important;
+    visibility: hidden !important;
+}
+.stSpinner > div { border-top-color: #d97706 !important; }
+hr { border-color: #e8d5b7 !important; }
+.stForm { border: 0.5px solid #e8d5b7 !important; border-radius: 12px !important; }

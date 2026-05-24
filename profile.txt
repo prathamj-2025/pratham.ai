@@ -1,0 +1,102 @@
+# ABOUT PRATHAM JAIN
+
+## Currently
+Pratham Jain is a Master of Science student in Engineering Management at the
+University of Southern California (USC), Viterbi School of Engineering, in Los
+Angeles (Aug 2025 – May 2027). He is currently seeking SUMMER INTERNSHIPS in the
+United States, targeting both PROJECT MANAGEMENT and PRODUCT MANAGEMENT roles.
+
+## Work Authorization
+Pratham is an international student on an F-1 visa. He is eligible to work in the
+US through CPT (Curricular Practical Training) for internships during his
+studies, and OPT (Optional Practical Training) after graduation. He does not
+require sponsorship for internships under CPT.
+
+## Contact
+- Email: prathamj.2025@gmail.com
+- Phone: (213) 258-9391
+- LinkedIn: linkedin.com/in/prathamjain2025
+- Location: Los Angeles, CA
+
+# EDUCATION
+
+## USC (Master's, in progress)
+MS in Engineering Management, USC Viterbi School of Engineering, Aug 2025 – May 2027.
+Relevant coursework: Engineering Project Management, Engineering Management of
+System Integration, Economic Analysis of Engineering Projects, Leading and
+Managing Engineering Teams.
+
+## Undergrad
+Bachelor of Technology in Computer Science & Engineering, Lakshmi Narain College
+of Technology and Science, Bhopal, India (Aug 2018 – June 2022).
+
+# SKILLS
+
+## Project & Product Management
+Project coordination, Agile & Waterfall methodologies, SDLC, cross-functional
+collaboration, stakeholder engagement/management, risk & issue tracking,
+documentation & reporting, decision-making, analytical thinking, problem-solving,
+communication. On the product side: feature roadmapping, product discovery,
+product strategy, market analysis, requirement analysis, sprint planning, backlog
+management, KPI tracking, data-driven decision-making, process optimization.
+
+## Tools & Languages
+Jira, Confluence, MS Project, Smartsheet, Microsoft Office (Excel, PowerPoint,
+Word), Google Workspace, Asana, Power BI, Tableau. Programming: Python, SQL,
+JavaScript. AI/bot platforms: Google Dialogflow (CX), NVIDIA ACE Agent.
+
+# EXPERIENCE
+
+## Quantiphi — Senior Conversational Bot Engineer (Mumbai, India, Aug 2022 – July 2025)
+Pratham's most substantial role. He led work on three multilingual conversational
+AI agents (two digital-human avatars and one chatbot). Highlights:
+- Owned the work breakdown structure (WBS), feature roadmap, and milestone
+  schedule; managed scope, budget, and KPIs; met 100% of launch success criteria
+  on time.
+- Ran weekly status meetings and executive readouts using Jira dashboards and
+  Smartsheet timelines, tracking risks, dependencies, and action items. This
+  continuous-improvement cycle accelerated delivery / product iteration by 20%.
+- Designed and deployed an LLM intent classifier achieving 96% micro-F1, and
+  optimized services to cut p95 latency by 25%.
+- Built bilingual (English/Spanish) voice bots using Google Dialogflow CX with
+  Datastores and BigQuery; translated business requirement documents (BRDs) into
+  epics and user stories with acceptance criteria; reduced L1 (tier-1 support)
+  workload by 40%.
+- Delivered a RAG-based digital shopping assistant with governed releases (CAB
+  processes, change logs). Conducted user research to define success criteria and
+  feature requirements, validated it through a 4-week pilot, and showcased it at
+  NVIDIA GTC 2024, with a projected +25% conversion uplift.
+- Coordinated APAC/AMER deployment handoffs using RACI matrices and readiness
+  checklists, delivering AI solutions across retail, telecom, and healthcare clients.
+- Built test plans, runbooks, and risk logs; enforced quality checks and reviews,
+  reducing defect leakage by 23%.
+
+## Persistent Systems — Salesforce Developer Intern (Nagpur, India, Dec 2021 – June 2022)
+Built and configured secure Salesforce CRM components for a banking /
+financial-services project, applying platform customization and integration
+techniques. Converted functional requirements into user stories and testable
+acceptance criteria in Jira, and tracked milestones and stakeholder updates to
+keep delivery aligned to scope and timeline.
+
+## Uday Communication — Sales & Operations Development (Vidisha, India, June 2020 – June 2021)
+Supported day-to-day sales and delivery operations for an automobile spare-parts
+business, coordinating order fulfillment and customer interactions across 50–60
+retail accounts. Analyzed product demand, recommended product lines, and onboarded
+new clients through incentive programs, contributing to an estimated 10–15%
+increase in active retail accounts.
+
+# PROJECTS (at USC)
+
+## Smart USC Event Ticketing & Crowd Management System
+Led a feasibility and planning study to improve event-entry operations. Defined a
+solution combining ID verification, facial recognition, and dynamic gate
+allocation, projecting a 40% reduction in attendee verification effort. Used agile
+planning and risk management, and built a weighted trade study, WBS, and high-level
+system plan to evaluate options and support data-driven decisions.
+
+## Trojan Home — USC Housing Mobile Application
+Designed a comprehensive project/product plan for a USC Housing platform intended
+for 45,000+ students. Defined MVP features across housing search, roommate
+matching, and a student marketplace. Established a feature roadmap, milestone
+dependencies, risk-mitigation plans, change-control guidelines, and measurable
+success criteria to align scope with timeline and budget.
