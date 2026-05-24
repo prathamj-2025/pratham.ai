@@ -1,0 +1,10 @@
+mkdir -p ~/.streamlit
+cat > ~/.streamlit/config.toml << EOF
+[theme]
+base = "light"
+backgroundColor = "#fdf8f3"
+secondaryBackgroundColor = "#f5f0e8"
+textColor = "#44271a"
+primaryColor = "#d97706"
+font = "sans serif"
+EOF
